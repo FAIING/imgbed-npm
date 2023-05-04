@@ -1,0 +1,19 @@
+{
+  "name": "imgbed-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FAIING/imgbed-npm.git"
+  },
+  "author": "FAIING",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FAIING/imgbed-npm/issues"
+  },
+  "homepage": "https://github.com/FAIING/imgbed-npm#readme"
+}
